@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["user"],{b843:function(e,n,t){"use strict";t.r(n);var o=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("router-view")],1)},u=[],c={name:"user",components:{},data:function(){return{}},props:{},computed:{},methods:{},watch:{},created:function(){},mounted:function(){},destroyed:function(){}},r=c,s=t("2877"),a=Object(s["a"])(r,o,u,!1,null,"7b57c553",null);n["default"]=a.exports}}]);
+//# sourceMappingURL=user.8a613efc.js.map
